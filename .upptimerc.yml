@@ -1,6 +1,6 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: furrykitsune # Your GitHub organization or username, where this repository lives
+repo: styluscat-status # The name of this repository
 
 sites:
   - name: Main Site
@@ -13,6 +13,7 @@ sites:
     url: https://isawiireallyhostingthis.lol
 
 status-website:
+  theme: night
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.styluscat.com
@@ -27,8 +28,6 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
-  status-website:
-      theme: night
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
