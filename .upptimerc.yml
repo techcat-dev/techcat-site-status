@@ -3,13 +3,13 @@ owner: furrykitsune # Your GitHub organization or username, where this repositor
 repo: styluscat-status # The name of this repository
 
 sites:
-  - name: Main Site
+  - name: Main Site (styluscat.com)
     url: https://styluscat.com
-  - name: Downloads
+  - name: Main Site Downloads (dl.styluscat.com)
     url: https://dl.styluscat.com
-  - name: Furry Femboys
+  - name: Furry Femboy Pics (furryfemboys.pics)
     url: https://furryfemboys.pics
-  - name: Wii Site
+  - name: Wii Site (isawiireallyhostingthis.lol)
     url: https://isawiireallyhostingthis.lol
 
 status-website:
