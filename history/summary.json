@@ -11,7 +11,7 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.93%",
     "time": 2364,
-    "timeDay": 7438,
+    "timeDay": 11104,
     "timeWeek": 2364,
     "timeMonth": 2364,
     "timeYear": 2364,
@@ -25,19 +25,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/dl.styluscat.com.ico",
     "slug": "main-site-downloads-dl-styluscat-com",
     "status": "up",
-    "uptime": "99.92%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 986,
-    "timeDay": 2844,
+    "timeDay": 4218,
     "timeWeek": 986,
     "timeMonth": 986,
     "timeYear": 986,
-    "dailyMinutesDown": {
-      "2024-04-06": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Furry Femboy Pics (furryfemboys.pics)",
@@ -45,19 +43,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/furryfemboys.pics.ico",
     "slug": "furry-femboy-pics-furryfemboys-pics",
     "status": "up",
-    "uptime": "99.92%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 638,
-    "timeDay": 1510,
+    "timeDay": 2200,
     "timeWeek": 638,
     "timeMonth": 638,
     "timeYear": 638,
-    "dailyMinutesDown": {
-      "2024-04-06": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Wii Site (isawiireallyhostingthis.lol)",
@@ -65,18 +61,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/isawiireallyhostingthis.lol.ico",
     "slug": "wii-site-isawiireallyhostingthis-lol",
     "status": "up",
-    "uptime": "99.92%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 717,
-    "timeDay": 1862,
+    "timeDay": 2738,
     "timeWeek": 717,
     "timeMonth": 717,
     "timeYear": 717,
-    "dailyMinutesDown": {
-      "2024-04-06": 7
-    }
+    "dailyMinutesDown": {}
   }
 ]
