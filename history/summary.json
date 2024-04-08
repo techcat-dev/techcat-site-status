@@ -42,18 +42,20 @@
     "url": "https://furryfemboys.pics",
     "icon": "https://icons.duckduckgo.com/ip3/furryfemboys.pics.ico",
     "slug": "furry-femboy-pics-furryfemboys-pics",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 599,
-    "timeDay": 216,
-    "timeWeek": 615,
-    "timeMonth": 599,
-    "timeYear": 599,
-    "dailyMinutesDown": {}
+    "time": 551,
+    "timeDay": 121,
+    "timeWeek": 561,
+    "timeMonth": 551,
+    "timeYear": 551,
+    "dailyMinutesDown": {
+      "2024-04-08": 0
+    }
   },
   {
     "name": "Wii Site (isawiireallyhostingthis.lol)",
