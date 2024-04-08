@@ -42,19 +42,19 @@
     "url": "https://furryfemboys.pics",
     "icon": "https://icons.duckduckgo.com/ip3/furryfemboys.pics.ico",
     "slug": "furry-femboy-pics-furryfemboys-pics",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 551,
-    "timeDay": 121,
-    "timeWeek": 561,
-    "timeMonth": 551,
-    "timeYear": 551,
+    "status": "up",
+    "uptime": "99.89%",
+    "uptimeDay": "99.18%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
+    "time": 527,
+    "timeDay": 157,
+    "timeWeek": 534,
+    "timeMonth": 527,
+    "timeYear": 527,
     "dailyMinutesDown": {
-      "2024-04-08": 0
+      "2024-04-08": 12
     }
   },
   {
