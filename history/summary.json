@@ -10,11 +10,11 @@
     "uptimeWeek": "99.94%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
-    "time": 2167,
-    "timeDay": 193,
+    "time": 2015,
+    "timeDay": 353,
     "timeWeek": 2355,
-    "timeMonth": 2167,
-    "timeYear": 2167,
+    "timeMonth": 2015,
+    "timeYear": 2015,
     "dailyMinutesDown": {
       "2024-04-06": 6
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 909,
-    "timeDay": 143,
+    "time": 860,
+    "timeDay": 316,
     "timeWeek": 967,
-    "timeMonth": 909,
-    "timeYear": 909,
+    "timeMonth": 860,
+    "timeYear": 860,
     "dailyMinutesDown": {}
   },
   {
@@ -43,19 +43,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/furryfemboys.pics.ico",
     "slug": "furry-femboy-pics-furryfemboys-pics",
     "status": "up",
-    "uptime": "99.89%",
-    "uptimeDay": "99.18%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.89%",
-    "time": 527,
-    "timeDay": 157,
-    "timeWeek": 534,
-    "timeMonth": 527,
-    "timeYear": 527,
-    "dailyMinutesDown": {
-      "2024-04-08": 12
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 525,
+    "timeDay": 252,
+    "timeWeek": 532,
+    "timeMonth": 525,
+    "timeYear": 525,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Wii Site (isawiireallyhostingthis.lol)",
@@ -68,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 685,
-    "timeDay": 371,
-    "timeWeek": 712,
-    "timeMonth": 685,
-    "timeYear": 685,
+    "time": 674,
+    "timeDay": 550,
+    "timeWeek": 733,
+    "timeMonth": 674,
+    "timeYear": 674,
     "dailyMinutesDown": {}
   }
 ]
