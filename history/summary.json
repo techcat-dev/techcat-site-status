@@ -24,19 +24,19 @@
     "url": "https://dl.styluscat.com",
     "icon": "https://icons.duckduckgo.com/ip3/dl.styluscat.com.ico",
     "slug": "main-site-downloads-dl-styluscat-com",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 668,
-    "timeDay": 281,
-    "timeWeek": 1104,
-    "timeMonth": 668,
-    "timeYear": 668,
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "99.14%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 636,
+    "timeDay": 218,
+    "timeWeek": 1003,
+    "timeMonth": 636,
+    "timeYear": 636,
     "dailyMinutesDown": {
-      "2024-04-13": 0
+      "2024-04-13": 12
     }
   },
   {
