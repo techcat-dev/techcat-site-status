@@ -24,18 +24,20 @@
     "url": "https://dl.styluscat.com",
     "icon": "https://icons.duckduckgo.com/ip3/dl.styluscat.com.ico",
     "slug": "main-site-downloads-dl-styluscat-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 691,
-    "timeDay": 256,
-    "timeWeek": 1204,
-    "timeMonth": 691,
-    "timeYear": 691,
-    "dailyMinutesDown": {}
+    "time": 668,
+    "timeDay": 281,
+    "timeWeek": 1104,
+    "timeMonth": 668,
+    "timeYear": 668,
+    "dailyMinutesDown": {
+      "2024-04-13": 0
+    }
   },
   {
     "name": "Furry Femboy Pics (furryfemboys.pics)",
