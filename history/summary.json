@@ -10,11 +10,11 @@
     "uptimeWeek": "99.98%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.97%",
-    "time": 1101,
-    "timeDay": 196,
-    "timeWeek": 220,
-    "timeMonth": 1101,
-    "timeYear": 1101,
+    "time": 1071,
+    "timeDay": 249,
+    "timeWeek": 226,
+    "timeMonth": 1071,
+    "timeYear": 1071,
     "dailyMinutesDown": {
       "2024-04-19": 2,
       "2024-04-06": 6
@@ -26,19 +26,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/dl.styluscat.com.ico",
     "slug": "main-site-downloads-dl-styluscat-com",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 511,
-    "timeDay": 222,
-    "timeWeek": 226,
-    "timeMonth": 511,
-    "timeYear": 511,
-    "dailyMinutesDown": {
-      "2024-04-19": 2
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 503,
+    "timeDay": 265,
+    "timeWeek": 231,
+    "timeMonth": 503,
+    "timeYear": 503,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Furry Femboy Pics (furryfemboys.pics)",
@@ -46,19 +44,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/furryfemboys.pics.ico",
     "slug": "furry-femboy-pics-furryfemboys-pics",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 413,
-    "timeDay": 249,
-    "timeWeek": 285,
-    "timeMonth": 413,
-    "timeYear": 413,
-    "dailyMinutesDown": {
-      "2024-04-19": 2
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 407,
+    "timeDay": 250,
+    "timeWeek": 257,
+    "timeMonth": 407,
+    "timeYear": 407,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Wii Site (isawiireallyhostingthis.lol)",
@@ -66,18 +62,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/isawiireallyhostingthis.lol.ico",
     "slug": "wii-site-isawiireallyhostingthis-lol",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 473,
-    "timeDay": 248,
-    "timeWeek": 299,
+    "timeDay": 360,
+    "timeWeek": 319,
     "timeMonth": 473,
     "timeYear": 473,
-    "dailyMinutesDown": {
-      "2024-04-19": 2
-    }
+    "dailyMinutesDown": {}
   }
 ]
