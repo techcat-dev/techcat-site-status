@@ -5,7 +5,7 @@ repo: styluscat-status # The name of this repository
 sites:
   - name: Main Site (techcat.dev)
     url: https://techcat.dev
-  - name: Main Site Downloads (dl.styluscat.com)
+  - name: Main Site Downloads (dl.techcat.dev)
     url: https://dl.techcat.dev
   - name: Old Site (styluscat.com)
     url: https://styluscat.com
