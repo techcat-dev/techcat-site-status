@@ -4,71 +4,79 @@
     "url": "https://techcat.dev",
     "icon": "https://icons.duckduckgo.com/ip3/techcat.dev.ico",
     "slug": "main-site-techcat-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 235,
-    "timeDay": 166,
-    "timeWeek": 191,
-    "timeMonth": 235,
-    "timeYear": 235,
-    "dailyMinutesDown": {}
+    "time": 231,
+    "timeDay": 132,
+    "timeWeek": 179,
+    "timeMonth": 231,
+    "timeYear": 231,
+    "dailyMinutesDown": {
+      "2024-05-17": 0
+    }
   },
   {
     "name": "Old Site (styluscat.com)",
     "url": "https://styluscat.com",
     "icon": "https://icons.duckduckgo.com/ip3/styluscat.com.ico",
     "slug": "old-site-styluscat-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 226,
-    "timeDay": 200,
-    "timeWeek": 187,
-    "timeMonth": 226,
-    "timeYear": 226,
-    "dailyMinutesDown": {}
+    "time": 224,
+    "timeDay": 182,
+    "timeWeek": 184,
+    "timeMonth": 224,
+    "timeYear": 224,
+    "dailyMinutesDown": {
+      "2024-05-17": 0
+    }
   },
   {
     "name": "Furry Femboy Pics (furryfemboys.pics)",
     "url": "https://furryfemboys.pics",
     "icon": "https://icons.duckduckgo.com/ip3/furryfemboys.pics.ico",
     "slug": "furry-femboy-pics-furryfemboys-pics",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 360,
-    "timeDay": 366,
-    "timeWeek": 247,
-    "timeMonth": 310,
-    "timeYear": 360,
-    "dailyMinutesDown": {}
+    "time": 357,
+    "timeDay": 284,
+    "timeWeek": 241,
+    "timeMonth": 307,
+    "timeYear": 357,
+    "dailyMinutesDown": {
+      "2024-05-17": 0
+    }
   },
   {
     "name": "Wii Site (isawiireallyhostingthis.lol)",
     "url": "https://isawiireallyhostingthis.lol",
     "icon": "https://icons.duckduckgo.com/ip3/isawiireallyhostingthis.lol.ico",
     "slug": "wii-site-isawiireallyhostingthis-lol",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 783,
-    "timeDay": 591,
-    "timeWeek": 2560,
-    "timeMonth": 932,
-    "timeYear": 783,
-    "dailyMinutesDown": {}
+    "time": 771,
+    "timeDay": 321,
+    "timeWeek": 2309,
+    "timeMonth": 909,
+    "timeYear": 771,
+    "dailyMinutesDown": {
+      "2024-05-17": 0
+    }
   }
 ]
