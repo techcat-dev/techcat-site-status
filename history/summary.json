@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/techcat.dev.ico",
     "slug": "main-site-techcat-dev",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 231,
-    "timeDay": 132,
-    "timeWeek": 179,
-    "timeMonth": 231,
-    "timeYear": 231,
+    "uptime": "98.64%",
+    "uptimeDay": "63.32%",
+    "uptimeWeek": "94.76%",
+    "uptimeMonth": "98.64%",
+    "uptimeYear": "98.64%",
+    "time": 226,
+    "timeDay": 87,
+    "timeWeek": 165,
+    "timeMonth": 226,
+    "timeYear": 226,
     "dailyMinutesDown": {
-      "2024-05-17": 0
+      "2024-05-18": 38,
+      "2024-05-17": 490
     }
   },
   {
@@ -25,18 +26,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/styluscat.com.ico",
     "slug": "old-site-styluscat-com",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 224,
-    "timeDay": 182,
-    "timeWeek": 184,
-    "timeMonth": 224,
-    "timeYear": 224,
+    "uptime": "98.64%",
+    "uptimeDay": "63.32%",
+    "uptimeWeek": "94.76%",
+    "uptimeMonth": "98.64%",
+    "uptimeYear": "98.64%",
+    "time": 220,
+    "timeDay": 132,
+    "timeWeek": 179,
+    "timeMonth": 220,
+    "timeYear": 220,
     "dailyMinutesDown": {
-      "2024-05-17": 0
+      "2024-05-18": 38,
+      "2024-05-17": 490
     }
   },
   {
@@ -45,18 +47,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/furryfemboys.pics.ico",
     "slug": "furry-femboy-pics-furryfemboys-pics",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 357,
-    "timeDay": 284,
-    "timeWeek": 241,
-    "timeMonth": 307,
-    "timeYear": 357,
+    "uptime": "99.22%",
+    "uptimeDay": "63.32%",
+    "uptimeWeek": "94.76%",
+    "uptimeMonth": "98.79%",
+    "uptimeYear": "99.22%",
+    "time": 355,
+    "timeDay": 231,
+    "timeWeek": 252,
+    "timeMonth": 305,
+    "timeYear": 355,
     "dailyMinutesDown": {
-      "2024-05-17": 0
+      "2024-05-18": 38,
+      "2024-05-17": 490
     }
   },
   {
@@ -65,18 +68,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/isawiireallyhostingthis.lol.ico",
     "slug": "wii-site-isawiireallyhostingthis-lol",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 771,
-    "timeDay": 321,
-    "timeWeek": 2309,
-    "timeMonth": 909,
-    "timeYear": 771,
+    "uptime": "99.22%",
+    "uptimeDay": "63.33%",
+    "uptimeWeek": "94.76%",
+    "uptimeMonth": "98.79%",
+    "uptimeYear": "99.22%",
+    "time": 759,
+    "timeDay": 73,
+    "timeWeek": 2298,
+    "timeMonth": 900,
+    "timeYear": 759,
     "dailyMinutesDown": {
-      "2024-05-17": 0
+      "2024-05-18": 38,
+      "2024-05-17": 490
     }
   }
 ]
