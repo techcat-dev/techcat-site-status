@@ -58,17 +58,19 @@
     "url": "https://isawiireallyhostingthis.lol",
     "icon": "https://icons.duckduckgo.com/ip3/isawiireallyhostingthis.lol.ico",
     "slug": "wii-site-isawiireallyhostingthis-lol",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 669,
-    "timeDay": 332,
-    "timeWeek": 125,
-    "timeMonth": 868,
-    "timeYear": 669,
-    "dailyMinutesDown": {}
+    "time": 684,
+    "timeDay": 1033,
+    "timeWeek": 326,
+    "timeMonth": 893,
+    "timeYear": 684,
+    "dailyMinutesDown": {
+      "2024-05-27": 0
+    }
   }
 ]
