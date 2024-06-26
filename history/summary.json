@@ -4,17 +4,19 @@
     "url": "https://techcat.dev",
     "icon": "https://icons.duckduckgo.com/ip3/techcat.dev.ico",
     "slug": "main-sites-techcat-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 214,
-    "timeDay": 417,
-    "timeWeek": 214,
-    "timeMonth": 214,
-    "timeYear": 214,
-    "dailyMinutesDown": {}
+    "time": 202,
+    "timeDay": 268,
+    "timeWeek": 202,
+    "timeMonth": 202,
+    "timeYear": 202,
+    "dailyMinutesDown": {
+      "2024-06-26": 0
+    }
   }
 ]
