@@ -5,18 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/techcat.dev.ico",
     "slug": "main-sites-techcat-dev",
     "status": "up",
-    "uptime": "99.95%",
-    "uptimeDay": "99.75%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.95%",
-    "time": 215,
-    "timeDay": 285,
-    "timeWeek": 215,
-    "timeMonth": 215,
-    "timeYear": 215,
-    "dailyMinutesDown": {
-      "2024-06-26": 4
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 211,
+    "timeDay": 205,
+    "timeWeek": 211,
+    "timeMonth": 211,
+    "timeYear": 211,
+    "dailyMinutesDown": {}
   }
 ]
