@@ -6,15 +6,15 @@
     "slug": "main-sites-techcat-dev",
     "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "95.14%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.31%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.93%",
-    "time": 249,
-    "timeDay": 280,
-    "timeWeek": 274,
-    "timeMonth": 240,
-    "timeYear": 249,
+    "time": 251,
+    "timeDay": 398,
+    "timeWeek": 271,
+    "timeMonth": 241,
+    "timeYear": 251,
     "dailyMinutesDown": {
       "2024-08-25": 70
     }
